@@ -29,7 +29,7 @@ The dataset, sourced from Kaggle, contains online retail transaction data. It in
 # Installation & Usage
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/azkalltlhn/Gradient_Boosting_Classifier.git
+   git clone https://github.com/azkalltlhn/Sales-Analysis-Using-Linear-Regression.git
 
 2. **Install the required dependencies::**
    ```bash
