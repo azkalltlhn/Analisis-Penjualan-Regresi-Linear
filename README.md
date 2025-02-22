@@ -1,1 +1,1 @@
-# Analisis-Penjualan-Regresi-Linear
+# Analisis Penjualan Regresi Linear
