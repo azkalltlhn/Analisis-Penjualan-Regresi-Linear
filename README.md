@@ -15,7 +15,7 @@ The dataset contains sales transaction records from an e-commerce business, prov
 # Installation and Usage
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/azkalltlhn/Gradient_Boosting_Classifier.git
+   git clone https://github.com/azkalltlhn/Sales-Analysis-Using-Linear-Regression.git
 
 2. **Install the required dependencies::**
    ```bash
